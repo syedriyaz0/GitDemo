@@ -1,0 +1,7 @@
+18:59:17.490 [main] INFO  resources.Base - Navigated to home page url
+18:59:17.637 [main] INFO  resources.Base - Successfully validatedHeaderTitle text message
+18:59:17.796 [main] INFO  resources.Base - Successfully closed the browser
+19:11:25.213 [main] INFO  resources.Base - Driver is initialize
+19:11:28.886 [main] INFO  resources.Base - Navigated to home page url
+19:11:29.041 [main] INFO  resources.Base - Successfully validatedHeaderTitle text message
+19:11:29.419 [main] INFO  resources.Base - Successfully closed the browser

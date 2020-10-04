@@ -1,0 +1,6 @@
+18:48:53.871 [TestNG-tests-1] INFO  resources.Base - Successfully clicked on SubmitButton
+18:48:54.420 [TestNG-tests-3] INFO  resources.Base - Successfully closed the browser
+18:48:55.622 [TestNG-tests-1] INFO  resources.Base - Navigated to home page url
+18:48:55.899 [TestNG-tests-1] INFO  resources.Base - Successfully clicked on LoginButton
+18:48:55.968 [TestNG-tests-1] INFO  resources.Base - Successfully entered username
+18:48:56.016 [TestNG-tests-1] INFO  resources.Base - Successfully entered password
